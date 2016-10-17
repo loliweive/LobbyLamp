@@ -1,0 +1,35 @@
+[Project]
+Project=HC-ICE
+[File Count]
+Count=4
+[Project Files]
+File0=HC18P013.INC
+File1=MAIN.ASM
+File2=REG.INC
+File3=SUB013.inc
+File4=SUB013.inc
+File5=ZERO.INC
+[Settings]
+Device=HC18P010S
+ConfigBitValue0=1
+ConfigBitValue1=64
+ConfigBitValue2=247
+Output=.
+PostBuild=0
+PostBuildCommand=
+[Files]
+File0=REG.INC|3 50 932 50 499
+OpenFileCounts=3
+File1=MAIN.ASM|1 0 878 0 445
+File2=SUB013.INC|1 104 418 104 736
+File3=SUB013.INC|1 104 418 104 736
+File4=ZERO.INC|1 125 1007 125 574
+File5=HC18P013.INC|1 25 907 25 474
+[Break]
+Count=0
+[Watch0]
+Count=0
+[Watch1]
+Count=0
+[Watch2]
+Count=0
